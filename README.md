@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @kuxacodes
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning js and css
-- 💞️ I’m looking to collaborate on interesting projects
-- 📫 Reach out to me on Discord @kuxa#5481
+@kuxa
